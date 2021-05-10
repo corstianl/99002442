@@ -3,7 +3,7 @@
         <title>Registration Form</title>    
     </head>    
     <body>    
-        <link href = "registration.css" type = "text/css" rel = "stylesheet" />    
+        <link href = "/styles/registration.css" type = "text/css" rel = "stylesheet" />    
         <h2>Forgot Password</h2>    
         <form name = "form1" action="forgot.php" method ="get" enctype = "multipart/form-data" >    
             <div class = "container">    
